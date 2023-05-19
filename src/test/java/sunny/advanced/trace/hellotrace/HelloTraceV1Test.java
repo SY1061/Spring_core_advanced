@@ -4,8 +4,6 @@ import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import sunny.advanced.trace.TraceStatus;
 
-import static org.junit.jupiter.api.Assertions.*;
-
 class HelloTraceV1Test {
     @Test
     @DisplayName("로그 시작 확인 테스트")

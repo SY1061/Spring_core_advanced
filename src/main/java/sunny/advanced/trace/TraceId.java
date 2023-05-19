@@ -5,8 +5,8 @@ import java.util.UUID;
 
 @Getter
 public class TraceId {
-    private String id;
-    private int level;
+    private final String id;
+    private final int level;
 
     public TraceId() {
         this.id = createId();
