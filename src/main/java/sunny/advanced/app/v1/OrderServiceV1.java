@@ -1,4 +1,4 @@
-package sunny.advanced.v1;
+package sunny.advanced.app.v1;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;

@@ -1,4 +1,4 @@
-package sunny.advanced.v2;
+package sunny.advanced.app.v2;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;
